@@ -2643,7 +2643,7 @@ ul.top-social li a:hover {
 }
 #body-default-type article header .home-article-content .tag-details {
 	margin-bottom: 30px;
-	display: block;
+	/*display: block;*/
 }
 #body-default-type article header .home-article-content h2 a {
 	color: #222222;
